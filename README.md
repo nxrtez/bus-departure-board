@@ -1,3 +1,26 @@
+<p align="center">
+
+  <!-- Version Badge -->
+  <img src="https://img.shields.io/badge/version-1.1-blue?style=for-the-badge" alt="Version">
+
+  <!-- Python Badge -->
+  <img src="https://img.shields.io/badge/python-3.10%2B-success?style=for-the-badge" alt="Python">
+
+  <!-- Status Badge -->
+  <img src="https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge" alt="Status">
+
+  <!-- Platform Badge -->
+  <img src="https://img.shields.io/badge/platform-windows%20%7C%20linux-lightgrey?style=for-the-badge" alt="Platform">
+
+  <!-- License Badge -->
+  <img src="https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge" alt="License">
+
+  <!-- Project Type -->
+  <img src="https://img.shields.io/badge/type-transport%20display-orange?style=for-the-badge" alt="Type">
+
+</p>
+
+
 # Bus Stop Display System
 A real-time countdown display for bus services, built with Tkinter and structured around JSON timetable data.  
 Supports multiple routes, dual-direction displays, simulated time/day, and dynamic JSON loading.
