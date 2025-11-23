@@ -1,0 +1,23 @@
+{
+    "route": "EXAMPLE",
+
+    "TERMINUS 1": {
+        "mon":   { "times": [], "dests": [] },
+        "tue":   { "times": [], "dests": [] },
+        "wed":   { "times": [], "dests": [] },
+        "thu":   { "times": [], "dests": [] },
+        "fri":   { "times": [], "dests": [] },
+        "sat":   { "times": [], "dests": [] },
+        "sun":   { "times": [], "dests": [] }
+    },
+
+    "TERMINUS 2": {
+        "mon":   { "times": [], "dests": [] },
+        "tue":   { "times": [], "dests": [] },
+        "wed":   { "times": [], "dests": [] },
+        "thu":   { "times": [], "dests": [] },
+        "fri":   { "times": [], "dests": [] },
+        "sat":   { "times": [], "dests": [] },
+        "sun":   { "times": [], "dests": [] }
+    }
+}
